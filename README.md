@@ -1,14 +1,12 @@
-# Plantilla Práctica 1
-Este es un repositorio básico para comprobar cómo funciona GitHub y, especialmente, GitHub Classroom.
-
-Tus tareas consisten en:
-1) Modificar este fichero README.md de modo que pongas tus datos en formato MarkDown.
-2) Añadir un fichero <code>datos.json</code> en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato [JSON](https://es.wikipedia.org/wiki/JSON).
+#  Práctica 1
 
 ### Bader Irheem
 <img src='/Bader.JPG' width='200px'>
 
-Profesor del departamento de Informática de la Universidad de Jaén.
+Alumno de Grado de Ingeniería Informática en la Universidad de Jaén.
 * **Correo**: bsi00001@red.ujaen.es
 * **GitHub**: https://github.com/bsi00001
 * **Trello**: https://trello.com/b/7ZfTJuF2/tablerodesarrolloágil
+
+Captura de pantalla de Trello
+<img src='/CapturaTrello.PNG' width='500px'>
