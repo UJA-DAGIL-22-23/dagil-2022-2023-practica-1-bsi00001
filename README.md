@@ -8,5 +8,11 @@ Alumno de Grado de Ingeniería Informática en la Universidad de Jaén.
 * **GitHub**: https://github.com/bsi00001
 * **Trello**: https://trello.com/b/7ZfTJuF2/tablerodesarrolloágil
 
-Captura de pantalla de Trello
+### Captura de pantalla de Trello
 <img src='/CapturaTrello.PNG' width='500px'>
+
+### Captura de pantalla de GitHub
+<img src='/CapturaGitHub.PNG' width='500px'>
+
+### Captura de pantalla del tablero final en Trello
+<img src='/CapturaTrelloFinal.PNG' width='500px'>

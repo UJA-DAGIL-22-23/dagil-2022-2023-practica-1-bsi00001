@@ -1,0 +1,27 @@
+{
+    "Práctica 1": {
+        "Bader Irheem": {
+            "Imagen": "/Bader.JPG",
+            "ImagenAncho": "200px",
+            "Información": {
+                "Estudios": "Grado de Ingeniería Informática en la Universidad de Jaén.",
+                "Correo": "bsi00001@red.ujaen.es",
+                "GitHub": "https://github.com/bsi00001",
+                "Trello": "https://trello.com/b/7ZfTJuF2/tablerodesarrolloágil"
+            }
+        },
+        "Captura de pantalla de Trello": {
+            "Imagen": "/CapturaTrello.PNG",
+            "ImagenAncho": "500px"
+        },
+        "Captura de pantalla de GitHub": {
+            "Imagen": "/CapturaGitHub.PNG",
+            "ImagenAncho": "500px"
+        },
+        "Captura de pantalla del tablero final en Trello": {
+            "Imagen": "/CapturaTrelloFinal.PNG",
+            "ImagenAncho": "500px"
+        }
+    }
+}
+
